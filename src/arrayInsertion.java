@@ -12,8 +12,7 @@ public class arrayInsertion {
 
         // Define o novo valor que será inserido
 
-        int newValue = 5;
-
+        int newValue = 5
 
         // Exibe o array original antes da inserção
         System.out.println("Original Array before insertion: \n" + Arrays.toString(my_array));
